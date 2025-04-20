@@ -7,12 +7,10 @@ format: html
 
 <div style="text-align: center;">
   <img src="figures/renovable.jpg" alt="Energía Renovable" width="300">
+  <p><strong>Profesora: Keyla Vanessa Alba Molina</strong><br>
+  Doctorado en Ciencias Naturales Universidad del Norte</p>
 </div>
 
-
-**Keyla Vanessa Alba Molina**  
-Doctorado en Ciencias Naturales
-Universidad del Norte
 
 ---
 
