@@ -15,7 +15,6 @@ book:
     - index.qmd
     - chapters/EDA_Lineamientos.ipynb
     - chapters/EDA.ipynb
-
 format:
   html:
     theme: cosmo
@@ -27,3 +26,5 @@ format:
         By Keyla Vanessa Alba Molina  
         © Copyright 2025.  
         Universidad del Norte. Todos los derechos reservados.
+
+
