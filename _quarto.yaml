@@ -5,10 +5,9 @@ book:
   title: "Universidad del Norte"
   author: "Keyla Vanessa Alba Molina"
   language: es
-  favicon: figures/logo_uninorte.jpg
-  cover-image: figures/logo_uninorte.jpg
+
   sidebar:
-    logo: figures/logo_uninorte.jpg  
+    logo: figures/logo_uninorte.jpg  # Aquí usas el logo de Uninorte
     search: true
   chapters:
     - index.qmd

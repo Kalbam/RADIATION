@@ -4,9 +4,11 @@ author: ""
 format: html
 ---
 
-<p align="center">
-  <img src="figures/renovable.jpg" alt="Logo Uninorte" width="350"/>
-</p>
+
+<div style="text-align: center;">
+  <img src="figures/renovable.jpg" alt="Energía Renovable" width="300">
+</div>
+
 
 **Profesora: Keyla Vanessa Alba Molina**  
 Doctorado en Ciencias Naturales
