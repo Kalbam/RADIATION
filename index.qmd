@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Predicción de Radiación Solar en los Estados del Noreste de Brasil Utilizando Técnicas Híbridas Basadas en Transformada Wavelet Discreta, ARIMA y Redes Neuronales Artificiales (ANN)"
 format: html
@@ -6,7 +5,7 @@ format: html
 
 <div style="text-align: center;">
 
-  <h1>Universidad del Norte</h1>
+
 
   <img src="figures/renovable.jpg" alt="Energía Renovable" width="300"/>
 
@@ -16,22 +15,4 @@ format: html
 
 </div>
 
-=======
----
-title: "Predicción de Radiación Solar en los Estados del Noreste de Brasil Utilizando Técnicas Híbridas Basadas en Transformada Wavelet Discreta, ARIMA y Redes Neuronales Artificiales (ANN)"
-format: html
----
 
-<div style="text-align: center;">
-
-  <h1>Universidad del Norte</h1>
-
-  <img src="figures/renovable.jpg" alt="Energía Renovable" width="300"/>
-
-  <p><strong>Keyla Vanessa Alba Molina</strong><br>
-  Doctorado en Ciencias Naturales<br>
-  Universidad del Norte</p>
-
-</div>
-
->>>>>>> 6bb81d5 (Actualización diseño portada con logo Uninorte)
