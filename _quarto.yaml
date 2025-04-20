@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 project:
   type: book
@@ -29,3 +30,36 @@ format:
         By Keyla Vanessa Alba Molina  
         © Copyright 2025.  
         Universidad del Norte. Todos los derechos reservados.
+=======
+
+project:
+  type: book
+
+book:
+  title: "Predicción de Radiación Solar en los Estados del Noreste de Brasil Utilizando Técnicas Híbridas Basadas en Transformada Wavelet Discreta, ARIMA y Redes Neuronales Artificiales (ANN)"
+  #subtitle: "Doctorado en Ciencias Naturales"
+  #author: "Keyla Vanessa Alba Molina"
+  #date: "2025"
+  language: es
+  sidebar:
+    logo: figures/logo_uninorte.jpg
+    search: true
+
+  chapters:
+    - index.qmd
+    - chapters/EDA_Lineamientos.ipynb
+    - chapters/EDA.ipynb
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    code-fold: true
+    css: styles/custom.scss
+    page-footer:
+      left: |
+        By Keyla Vanessa Alba Molina  
+        © Copyright 2025.  
+        Universidad del Norte. Todos los derechos reservados.
+>>>>>>> 6bb81d5 (Actualización diseño portada con logo Uninorte)
