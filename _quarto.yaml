@@ -15,12 +15,24 @@ book:
     - chapters/EDA_Lineamientos.ipynb
     - chapters/EDA.ipynb
 
+project:
+  type: book
+
+book:
+  title: "Universidad del Norte"
+  author: "Keyla Vanessa Alba Molina"
+  sidebar:
+    logo: figures/logo_uninorte.jpg
+
+
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
-    css: styles/custom.scss
+    theme: cosmo
     toc: true
-    code-copy: true
-    code-overflow: wrap
+    number-sections: true
+    css: styles/custom.scss
+    page-footer:
+      left: |
+        By Keyla Vanessa Alba Molina  
+        © Copyright 2025.  
+        Universidad del Norte. Todos los derechos reservados.
