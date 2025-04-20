@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "CAPES"
+  author: "Keyla Vanessa Alba Molina"
+  language: es
+  favicon: figures/logo_UN.png
+  cover-image: figures/logo_UN.png
+  sidebar:
+    logo: figures/logo_UN.png
+    search: true
+  chapters:
+    - index.qmd
+    - chapters/EDA_Lineamientos.ipynb
+    - chapters/EDA.ipynb
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles/custom.scss
+    toc: true
+    code-copy: true
+    code-overflow: wrap

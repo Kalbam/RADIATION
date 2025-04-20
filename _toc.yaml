@@ -1,0 +1,6 @@
+format: jb-book
+root: index
+
+chapters:
+  - file: chapters/EDA_Lineamientos.ipynb
+  - file: chapters/EDA.ipynb

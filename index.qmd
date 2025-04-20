@@ -1,0 +1,11 @@
+---
+title: "Predicción de Radiación Solar en los Estados del Noreste de Brasil Utilizando Técnicas Híbridas Basadas en Transformada Wavelet Discreta, ARIMA y Redes Neuronales Artificiales (ANN)"
+format: html
+---
+
+![](figures/logo_uninorte.jpg){width=120px align="left"}
+
+
+**Keyla Vanessa Alba Molina**  
+Doctorado en Ciencias Naturales  
+Universidad del Norte
