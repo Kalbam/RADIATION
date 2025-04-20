@@ -1,8 +1,8 @@
 
 project:
-  title: "Exploratory Data Analysis"
+  title: ""
   author: "Keyla Vanessa Alba Molina"
-  description: "Predicción de Radiación Solar en el Nordeste de Brasil"
+  description: ""
   language: es
 
 book:
@@ -10,9 +10,9 @@ book:
     logo: figures/logo_uninorte.jpg 
 
 book:
-  title: "Predicción de Radiación Solar en el Nordeste de Brasil"
+  title: "Predicción de Radiación Solar en los Estados del Noreste de Brasil Utilizando Técnicas Híbridas Basadas en Transformada Wavelet Discreta, ARIMA y Redes Neuronales Artificiales (ANN)"
   author: "Keyla Vanessa Alba Molina"
-  logo: figures/logo_uninorte.jpg  
+  logo: figures/renovable.jpg  
 
 format:
   html:
@@ -23,5 +23,5 @@ format:
     number_sections: true
     navigation_depth: 2
     code_folding: true
-    favicon: images/favicon.ico
+    favicon: figures/logo_uninorte.jpg
 
