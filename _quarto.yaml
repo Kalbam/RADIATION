@@ -2,28 +2,18 @@ project:
   type: book
 
 book:
-  title: "CAPES"
+  title: "Universidad del Norte"
   author: "Keyla Vanessa Alba Molina"
   language: es
-  favicon: figures/logo_UN.png
-  cover-image: figures/logo_UN.png
+  favicon: figures/logo_uninorte.jpg
+  cover-image: figures/logo_uninorte.jpg
   sidebar:
-    logo: figures/logo_UN.png
+    logo: figures/logo_uninorte.jpg  
     search: true
   chapters:
     - index.qmd
     - chapters/EDA_Lineamientos.ipynb
     - chapters/EDA.ipynb
-
-project:
-  type: book
-
-book:
-  title: "Universidad del Norte"
-  author: "Keyla Vanessa Alba Molina"
-  sidebar:
-    logo: figures/logo_uninorte.jpg
-
 
 format:
   html:
