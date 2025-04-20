@@ -3,10 +3,10 @@ project:
   type: book
 
 book:
-  title: "Universidad del Norte"
-  subtitle: "Doctorado en Ciencias Naturales"
-  author: "Keyla Vanessa Alba Molina"
-  date: "2025"
+  title: "Predicción de Radiación Solar en los Estados del Noreste de Brasil Utilizando Técnicas Híbridas Basadas en Transformada Wavelet Discreta, ARIMA y Redes Neuronales Artificiales (ANN)"
+  #subtitle: "Doctorado en Ciencias Naturales"
+  #author: "Keyla Vanessa Alba Molina"
+  #date: "2025"
   language: es
   sidebar:
     logo: figures/logo_uninorte.jpg
