@@ -6,9 +6,13 @@ project:
   language: es
 
 book:
-  title: "Exploratory Data Analysis"
+  sidebar:
+    logo: figures/logo_uninorte.jpg 
+
+book:
+  title: "Predicción de Radiación Solar en el Nordeste de Brasil"
+  author: "Keyla Vanessa Alba Molina"
   logo: figures/logo_uninorte.jpg  
-  toc: _toc.yml
 
 format:
   html:
@@ -20,3 +24,4 @@ format:
     navigation_depth: 2
     code_folding: true
     favicon: images/favicon.ico
+
